@@ -1,0 +1,1500 @@
+{
+    "Milewise": {
+        "PersVeh": {
+            "ActualCashValue": {
+                "Amt": 3.14159265358979,
+                "CurCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "AddDt": "1967-08-13",
+            "AdditionalInterestRef": "String",
+            "AdditionalItemTrailerInd": true,
+            "AfterMarketAirBagCd": {
+                "SrcCd": "token"
+            },
+            "Age": 0,
+            "AirBagStandardInd": true,
+            "AirBagTypeCd": {
+                "SrcCd": "token"
+            },
+            "AlteredInd": true,
+            "AntiLockBrakeCd": {
+                "SrcCd": "token"
+            },
+            "AntiLockBrakeDiscountCd": {
+                "SrcCd": "token"
+            },
+            "AntiLockBrakeStandardInd": true,
+            "AntiTheftDeviceInfo": {
+                "AdditionsCd": {
+                    "SrcCd": "token"
+                },
+                "AlarmOnlyInd": true,
+                "AntiTheftDeviceCategoryCd": {
+                    "SrcCd": "token"
+                },
+                "AntiTheftDeviceCd": {
+                    "SrcCd": "token"
+                },
+                "AntiTheftDeviceInfoExt": "",
+                "AntiTheftProductCd": {
+                    "SrcCd": "token"
+                },
+                "BrandCd": {
+                    "SrcCd": "token"
+                },
+                "ChangeTypeCd": "String",
+                "CreditPct": "String",
+                "DerivedDeviceCd": {
+                    "SrcCd": "token"
+                },
+                "DeviceSelectionInd": true,
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                }
+            },
+            "AutomaticSeatBeltStdInd": true,
+            "AuxiliaryLightingSystemInd": true,
+            "BodyShellTypeCd": {
+                "SrcCd": "token"
+            },
+            "BodyStyle": "String",
+            "CamperCostAmt": {
+                "Amt": 3.14159265358979,
+                "CurCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "CamperUnitExistsInd": true,
+            "CappedDiscountInd": true,
+            "CarpoolInd": true,
+            "CertifiedFinancialRiskCauseCd": {
+                "SrcCd": "token"
+            },
+            "ChangeTypeCd": "String",
+            "ComprehensiveSymbolCd": {
+                "SrcCd": "token"
+            },
+            "CorporateOwnedInd": true,
+            "CoverageByGeographyMismatchInd": true,
+            "CoverageReinstateDt": "1967-08-13",
+            "CoverageSuspendDt": "1967-08-13",
+            "CustomBusInd": true,
+            "CycleTypeCd": {
+                "SrcCd": "token"
+            },
+            "DMVReferenceNumber": "String",
+            "DaytimeRunningLightInd": true,
+            "DefensiveDriverCd": {
+                "SrcCd": "token"
+            },
+            "DiscountLevel": "String",
+            "Displacement": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "DistanceOneWay": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "DriveTrainTypeCd": {
+                "SrcCd": "token"
+            },
+            "ElectronicStabilityControlInd": true,
+            "EndorsementDt": "1967-08-13",
+            "EngineTypeCd": {
+                "SrcCd": "token"
+            },
+            "EstimatedAnnualDistance": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "EstimatedFutureAnnualDistance": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "ExtendedWheelbaseInd": true,
+            "FourWheelDriveInd": true,
+            "FuelTankCd": {
+                "SrcCd": "token"
+            },
+            "FuelTypeCd": {
+                "SrcCd": "token"
+            },
+            "GrandTierReasonCd": {
+                "SrcCd": "token"
+            },
+            "GreyMarketVehicleInd": true,
+            "GrossVehOrCombinedWeight": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "Height": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "HeightToLengthRatio": 3.14159265358979,
+            "HeightToWeightRatio": 3.14159265358979,
+            "HeightToWidthRatio": 3.14159265358979,
+            "HighTheftInd": true,
+            "HorsePower": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "Id": "String",
+            "InspectionInfo": {
+                "AcknowledgeFormInd": true,
+                "AgentInspectionInd": true,
+                "BatchNumber": "String",
+                "BillOfSaleInd": true,
+                "ChangeTypeCd": "String",
+                "ConditionCd": {
+                    "SrcCd": "token"
+                },
+                "CoverageRestrictionDt": "1967-08-13",
+                "FormCd": {
+                    "SrcCd": "token"
+                },
+                "HardshipInd": true,
+                "HazardComments": "String",
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "InspectionCd": {
+                    "SrcCd": "token"
+                },
+                "InspectionDt": "1967-08-13",
+                "InspectionInfoExt": "",
+                "InspectionOpportunityDesc": "String",
+                "InspectionPartyRef": "String",
+                "InspectionResults": "String",
+                "InspectionStatusCd": {
+                    "SrcCd": "token"
+                },
+                "InspectionStatusDt": "1967-08-13",
+                "InspectionSuspensionDt": "1967-08-13",
+                "InspectionWaivedInd": true,
+                "InspectorComment": "String",
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "PriorInspectionReasonCd": {
+                    "SrcCd": "token"
+                },
+                "ReasonCd": {
+                    "SrcCd": "token"
+                },
+                "ReportNumber": "String",
+                "SelfInspectionInd": true,
+                "SendOutputInd": true,
+                "SeverityCd": {
+                    "SrcCd": "token"
+                },
+                "StatusCd": {
+                    "SrcCd": "token"
+                },
+                "SurveyStatusInd": true,
+                "VehInspectionInfo": {
+                    "AntiTheftDeviceInfo": {
+                        "AdditionsCd": {
+                            "SrcCd": "token"
+                        },
+                        "AlarmOnlyInd": true,
+                        "AntiTheftDeviceCategoryCd": {
+                            "SrcCd": "token"
+                        },
+                        "AntiTheftDeviceCd": {
+                            "SrcCd": "token"
+                        },
+                        "AntiTheftDeviceInfoExt": "",
+                        "AntiTheftProductCd": {
+                            "SrcCd": "token"
+                        },
+                        "BrandCd": {
+                            "SrcCd": "token"
+                        },
+                        "ChangeTypeCd": "String",
+                        "CreditPct": "String",
+                        "DerivedDeviceCd": {
+                            "SrcCd": "token"
+                        },
+                        "DeviceSelectionInd": true,
+                        "Id": "String",
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "ModifiedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        }
+                    },
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "OdometerReading": {
+                        "NumUnits": 3.14159265358979,
+                        "UnitMeasurementCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "VehExemptionCd": {
+                        "SrcCd": "token"
+                    },
+                    "VehIdentificationNumber": "String",
+                    "VehInspectionDamageCd": {
+                        "SrcCd": "token"
+                    },
+                    "VehInspectionInfoExt": "",
+                    "VehSymbolCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "VendorCd": {
+                    "SrcCd": "token"
+                },
+                "WaivedDt": "2001-12-17T09:30:47Z",
+                "WaiverReasonCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "InsuranceCertificateInd": true,
+            "KitMotorcycleInd": true,
+            "Length": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "LengthTimeOccupiedPerYear": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "LengthToWidthRatio": 3.14159265358979,
+            "LocationCd": {
+                "SrcCd": "token"
+            },
+            "LocationRef": "String",
+            "Manufacturer": "String",
+            "ManufacturerShortName": "String",
+            "MinHorsePower": {
+                "NumUnits": 3.14159265358979,
+                "UnitMeasurementCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "Model": "String",
+            "ModelYear": 2001,
+            "MotorcycleSidecarCd": {
+                "SrcCd": "token"
+            },
+            "MultipleRecordPolicyCd": {
+                "SrcCd": "token"
+            },
+            "NewVehInd": true,
+            "NonFactoryEquipmentCd": {
+                "SrcCd": "token"
+            },
+            "NonOwnedVehCd": {
+                "SrcCd": "token"
+            },
+            "NumCylinders": 2147483647,
+            "NumDaysDrivenPerWeek": 0,
+            "NumDoors": 0,
+            "NumPassengers": 0,
+            "NumWeeksRented": 0,
+            "OdometerReadingInfo": {
+                "ChangeTypeCd": "String",
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "MinRequiredInd": true,
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "OdometerAssessmentCd": {
+                    "SrcCd": "token"
+                },
+                "OdometerLessThanFiftyInd": true,
+                "OdometerReadingExt": "",
+                "OdometerReadingValue": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "OdometerReading": {
+                        "NumUnits": 3.14159265358979,
+                        "UnitMeasurementCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "OdometerReadingAsOfDt": "1967-08-13",
+                    "OdometerReadingSourceCd": {
+                        "SrcCd": "token"
+                    },
+                    "OdometerReadingTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "OdometerReadingValueExt": ""
+                }
+            },
+            "OriginalYear": 2001,
+            "OverrideDiscountOrSurchargeInd": true,
+            "PartOriginalEquipmentManufactureInd": true,
+            "PhysicalDamageRateClassCd": {
+                "SrcCd": "token"
+            },
+            "PreFillInd": true,
+            "PrefillDataStatus": {
+                "ChangeTypeCd": "String",
+                "Id": "String",
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "PrefillDataRejectReasonCd": {
+                    "SrcCd": "token"
+                },
+                "PrefillDataRejectReasonDesc": "String",
+                "PrefillDataRejectedInd": true,
+                "PrefillDataSourceCd": {
+                    "SrcCd": "token"
+                },
+                "PrefillDataStatusExt": "",
+                "TransactionUserId": "String"
+            },
+            "PriceGroupSymbolCd": {
+                "SrcCd": "token"
+            },
+            "PricingCd": {
+                "SrcCd": "token"
+            },
+            "PrincipalDriverRef": "String",
+            "PrintIdCardInd": true,
+            "ProcessDt": "1967-08-13",
+            "PurchaseDt": "1967-08-13",
+            "PurchasePriceAmt": {
+                "Amt": 3.14159265358979,
+                "CurCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "PurchasedInLastYearInd": true,
+            "RatedDriverRef": "String",
+            "RatingAttribute": {
+                "Id": "String",
+                "KeyName": "String",
+                "KeyValue": "String"
+            },
+            "RatingFactors": {
+                "AddChangeVehFeeInd": true,
+                "AdjustedRatedIFSGroupCd": {
+                    "SrcCd": "token"
+                },
+                "AdjustedVehSymbolCd": {
+                    "SrcCd": "token"
+                },
+                "AlphaClassCd": {
+                    "SrcCd": "token"
+                },
+                "AnnualDistanceCategoryCd": {
+                    "SrcCd": "token"
+                },
+                "AutoLifeDiscountInd": true,
+                "BillingGroupInd": true,
+                "CarefulDriverInd": true,
+                "ChangeTypeCd": "String",
+                "CollisionDeductibleWaiverInd": true,
+                "ComplimentaryGroupRatingInfo": {
+                    "ChangeTypeCd": "String",
+                    "ComplimentaryGroupRatingCd": {
+                        "SrcCd": "token"
+                    },
+                    "ComplimentaryGroupRatingControlNumber": "String",
+                    "ComplimentaryGroupRatingInfoExt": "",
+                    "DefaultMicroSegmentUsedInd": true,
+                    "Id": "String",
+                    "Identifier": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "IdTypeCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "MicroSegmentNumber": 0,
+                    "MicroSegmentVersionNumber": 0,
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    }
+                },
+                "ComprehensiveLossInd": true,
+                "ComprehensiveLossSeverityCd": {
+                    "SrcCd": "token"
+                },
+                "ContentsCoverageAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "CoverageOverrideInd": true,
+                "DriverClassCd": {
+                    "SrcCd": "token"
+                },
+                "EducationCourseCd": {
+                    "SrcCd": "token"
+                },
+                "EducationCourseCertificateInd": true,
+                "EducationCourseCompletionDt": "1967-08-13",
+                "ExistingUnrepairedDamageInd": true,
+                "ExpandedMarketTierCd": {
+                    "SrcCd": "token"
+                },
+                "ExperienceGroupRateControlVersionCd": {
+                    "SrcCd": "token"
+                },
+                "ExtraVehInd": true,
+                "FullTermAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "GoodDriverPoints": 0,
+                "GrandTierCd": {
+                    "SrcCd": "token"
+                },
+                "HighestRatedVehInd": true,
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "IncidentInd": true,
+                "InitialQuotedPremiumAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "LawEnforcementFeeDt": "1967-08-13",
+                "LeasedVehInd": true,
+                "Limit": {
+                    "AmountDesc": "String",
+                    "CancellationTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "ChangeTypeCd": "String",
+                    "DepositAmt": {
+                        "Amt": 3.14159265358979,
+                        "CurCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "DisplayInd": true,
+                    "DownPaymentPct": 3.14159265358979,
+                    "ExcludeCd": {
+                        "SrcCd": "token"
+                    },
+                    "FormatCurrencyAmt": {
+                        "Amt": 3.14159265358979,
+                        "CurCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "FormatInteger": 2147483647,
+                    "FormatModFactor": 3.14159265358979,
+                    "FormatPct": 3.14159265358979,
+                    "FormatText": "String",
+                    "Id": "String",
+                    "Identifier": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "IdTypeCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "LimitAppliesToCd": {
+                        "SrcCd": "token"
+                    },
+                    "LimitBasisCd": {
+                        "SrcCd": "token"
+                    },
+                    "LimitExt": "",
+                    "LimitTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "PremiumAmt": {
+                        "Amt": 100,
+                        "CurCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "PremiumComponentFactorsInfo": {
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "ModifiedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "PremiumComponentFactorsInfoExt": "",
+                        "PremiumInfo": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "Identifier": {
+                                "ChangeTypeCd": "String",
+                                "Id": "String",
+                                "IdTypeCd": {
+                                    "SrcCd": "token"
+                                }
+                            },
+                            "KeyedValue": {
+                                "Id": "String",
+                                "KeyName": "String",
+                                "KeyValue": "String"
+                            },
+                            "ModifiedValue": {
+                                "Id": "String",
+                                "KeyName": "String",
+                                "KeyValue": "String"
+                            },
+                            "PremiumAccountingTypeCd": {
+                                "SrcCd": "token"
+                            },
+                            "PremiumAmt": {
+                                "Amt": 3.14159265358979,
+                                "CurCd": {
+                                    "SrcCd": "token"
+                                }
+                            },
+                            "PremiumDesc": "String",
+                            "PremiumInfoExt": "",
+                            "PremiumSourceTypeCd": {
+                                "SrcCd": "token"
+                            },
+                            "PremiumTypeCd": {
+                                "SrcCd": "token"
+                            },
+                            "SelectionDefaultInd": true
+                        }
+                    },
+                    "PremiumInfo": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "ModifiedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "PremiumAccountingTypeCd": {
+                            "SrcCd": "token"
+                        },
+                        "PremiumAmt": {
+                            "Amt": 200,
+                            "CurCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "PremiumDesc": "String",
+                        "PremiumInfoExt": "",
+                        "PremiumSourceTypeCd": {
+                            "SrcCd": "token"
+                        },
+                        "PremiumTypeCd": {
+                            "SrcCd": "token"
+                        },
+                        "SelectionDefaultInd": true
+                    },
+                    "SelectionDefaultInd": true,
+                    "SequenceNumber": 2147483647,
+                    "SupportingCd": {
+                        "SrcCd": "token"
+                    },
+                    "UsageRateInfo": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "RatePerUsageUnit": {
+                            "Amt": 3.14159265358979,
+                            "CurCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "UsageRateInfoExt": "",
+                        "UsageUnitCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "ValuationCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "LowLevelIncomeInd": true,
+                "MaxSurchargeRate": 3.14159265358979,
+                "MilesToWorkRangeCd": {
+                    "SrcCd": "token"
+                },
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "MotorcycleOrganizationName": "String",
+                "MultiPolicyDiscountLOBCd": {
+                    "SrcCd": "token"
+                },
+                "MultiPolicyDiscountPUPInd": true,
+                "MultiPolicyDiscountQualifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "MultiPolicyDiscountQualifierExt": "",
+                    "QualifierCd": {
+                        "SrcCd": "token"
+                    },
+                    "QualifierInd": true
+                },
+                "MultiPolicyDiscountQualifyingLineCd": {
+                    "SrcCd": "token"
+                },
+                "MultiPolicyLifeInd": true,
+                "NonOwnedVehInd": true,
+                "NonRatedAssetInd": true,
+                "NonVerifiableSurchargeInd": true,
+                "NumAtFaultAccidents": 2147483647,
+                "NumClaimFreeQualifying": 0,
+                "NumComprehensiveClaims": 2147483647,
+                "NumDefensiveDriverRenewals": 0,
+                "NumDrivers": 0,
+                "NumDriversOverAgeConstraint": 0,
+                "NumDriversUnderAgeConstraint": 0,
+                "NumFemaleDrivers": 0,
+                "NumGroupAClaimsLast2Years": 0,
+                "NumGroupAClaimsLast3Years": 0,
+                "NumGroupAClaimsLastYear": 0,
+                "NumMajorViolations": 0,
+                "NumMajorViolationsCurrentYr": 0,
+                "NumMaleDrivers": 0,
+                "NumMarriedDrivers": 0,
+                "NumMinorViolations": 0,
+                "NumMinorViolationsCurrentYr": 0,
+                "NumNonAppliedSafeDriverPoints": 0,
+                "NumNonFaultAccidents": 2147483647,
+                "NumNonVerifiableOperators": 2147483647,
+                "NumQualifyingComprehensiveClaims": 0,
+                "NumQualifyingNonFaultAccidents": 0,
+                "NumRenewalsRemaining": 0,
+                "NumSafeDriverInsurancePlanPoints": 0,
+                "NumSingleDrivers": 0,
+                "NumVehMeritPoints": 0,
+                "NumVehRenewals": 0,
+                "NumVehViolationPoints": 0,
+                "NumVehs": 2147483647,
+                "OccasionalUsageInd": true,
+                "OccupationRatingLevelCd": {
+                    "SrcCd": "token"
+                },
+                "OldestDriverBirthDt": "1967-08-13",
+                "OrganizationMembershipCd": {
+                    "SrcCd": "token"
+                },
+                "OriginalOwnerInd": true,
+                "PPVClassCd": {
+                    "SrcCd": "token"
+                },
+                "PPVClassificationNumber": "String",
+                "PayInFullInd": true,
+                "PayerTypeCd": {
+                    "SrcCd": "token"
+                },
+                "PermanentResidenceInd": true,
+                "PhysicalDamageRateClassCd": {
+                    "SrcCd": "token"
+                },
+                "PremiumInfo": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "Identifier": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "IdTypeCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "PremiumAccountingTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "PremiumAmt": {
+                        "Amt": 3.14159265358979,
+                        "CurCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "PremiumDesc": "String",
+                    "PremiumInfoExt": "",
+                    "PremiumSourceTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "PremiumTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "SelectionDefaultInd": true
+                },
+                "PricingCd": {
+                    "SrcCd": "token"
+                },
+                "PriorPUPLimitAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "PublicTransportationDiscountInd": true,
+                "RangeInfo": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "RangeDescription": "String",
+                    "RangeEnd": 2147483647,
+                    "RangeInfoExt": "",
+                    "RangeStart": 2147483647,
+                    "RangeTotalNum": 2147483647
+                },
+                "RateAdjustmentInd": true,
+                "RateClassCd": {
+                    "SrcCd": "token"
+                },
+                "RatePolicyGroupCd": {
+                    "SrcCd": "token"
+                },
+                "RateTableName": "String",
+                "RateTransitionFactor": 3.14159265358979,
+                "RatingAreaCd": {
+                    "SrcCd": "token"
+                },
+                "RatingAttribute": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "RatingFactorsExt": {
+                    "ProgramGroupCd": {
+                        "SrcCd": "token"
+                    },
+                    "RatingFactorsExt01": {
+                        "PaymentHistoryCd": {
+                            "SrcCd": "token"
+                        },
+                        "PremiumComponentFactor": {
+                            "AtlasGroupCd": {
+                                "SrcCd": "token"
+                            },
+                            "KeyedValue": {
+                                "Id": "String",
+                                "KeyName": "String",
+                                "KeyValue": "String"
+                            },
+                            "ModifiedValue": {
+                                "Id": "String",
+                                "KeyName": "String",
+                                "KeyValue": "String"
+                            },
+                            "PremiumComponentFactorExt": {
+                                "PremiumComponentFactorExt01": "",
+                                "RatingTableFactor": 0
+                            },
+                            "PremiumComponentTypeCd": {
+                                "SrcCd": "token"
+                            },
+                            "RoofAgeConfidenceCd": {
+                                "SrcCd": "token"
+                            },
+                            "RoofGroupCd": {
+                                "SrcCd": "token"
+                            },
+                            "RoofScore": 3.14159265358979
+                        },
+                        "RatingFactorsExt02": ""
+                    },
+                    "RatingTableFactor": 0
+                },
+                "RegisteredVehInd": true,
+                "ReinstatementCd": {
+                    "SrcCd": "token"
+                },
+                "ResidualMarketFacilityInd": true,
+                "ResidualMarketFacilityTierCd": {
+                    "SrcCd": "token"
+                },
+                "ResponsiblePaymentDiscountGroupCd": {
+                    "SrcCd": "token"
+                },
+                "RidingLengthTimeExperience": "String",
+                "SecondaryPolicyTierCd": {
+                    "SrcCd": "token"
+                },
+                "SecurityPlusDiscountEligibilityCd": {
+                    "SrcCd": "token"
+                },
+                "SignificantVehValueIncreaseInd": true,
+                "StatedValueVehTypeCd": {
+                    "SrcCd": "token"
+                },
+                "StrategicRiskMgmtOverlayConversionPremAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "StrategicRiskMgmtReferencePremAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "StrategicRiskTierCd": {
+                    "SrcCd": "token"
+                },
+                "SuspendReasonCd": {
+                    "SrcCd": "token"
+                },
+                "TaxRate": 3.14159265358979,
+                "TerritoryCd": {
+                    "SrcCd": "token"
+                },
+                "TierReasonCd": {
+                    "SrcCd": "token"
+                },
+                "TotalNumCompClaimPoints": 0,
+                "VanHighPerformanceSurchargeCd": {
+                    "SrcCd": "token"
+                },
+                "VehLockDt": "1967-08-13",
+                "VehNumberTimesRenewed": 0,
+                "VehPerformanceCd": {
+                    "SrcCd": "token"
+                },
+                "VehSpecialCd": {
+                    "SrcCd": "token"
+                },
+                "VehStatisticalCd": {
+                    "SrcCd": "token"
+                },
+                "VehSurchargeCd": {
+                    "SrcCd": "token"
+                },
+                "VehUseCd": {
+                    "SrcCd": "token"
+                },
+                "VehViolationPoints": 0,
+                "VehicleAttribute": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "VehicleEnteredTier1ADt": "1967-08-13",
+                "ViolationForgivenessCd": {
+                    "SrcCd": "token"
+                },
+                "WatersNavigatedCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "RecordDropDt": "1967-08-13",
+            "RegisteredOwnerRef": "String",
+            "RegisteredOwnerSequenceNumber": 0,
+            "RegistrationInformationApprovedInd": true,
+            "ReplacedVehicleSequenceNumber": 0,
+            "ResidualMarketFacilityInd": true,
+            "ResidualMarketFacilityTierCd": {
+                "SrcCd": "token"
+            },
+            "RiskDt": "1967-08-13",
+            "SalesReceiptAppraisal": {
+                "ChangeTypeCd": "String",
+                "CommlName": {
+                    "ChangeTypeCd": "String",
+                    "CommercialName": "String",
+                    "CommlNameExt": "",
+                    "Id": "String",
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    }
+                },
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "MiscPartyRef": "String",
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "SalesReceiptAppraisalAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "SalesReceiptAppraisalDt": "1967-08-13",
+                "SalesReceiptAppraisalExt": "",
+                "VehicleAgreedAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "VehicleCustomizationAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                }
+            },
+            "SalvagedInd": true,
+            "SeatBeltTypeCd": {
+                "SrcCd": "token"
+            },
+            "SequenceNumber": 2147483647,
+            "SpecialEquipmentAmt": {
+                "Amt": 3.14159265358979,
+                "CurCd": {
+                    "SrcCd": "token"
+                }
+            },
+            "SpecialtyVehicleAndMotorcycleTypeCd": {
+                "SrcCd": "token"
+            },
+            "StatusCd": {
+                "SrcCd": "token"
+            },
+            "SubModel": "String",
+            "ThirdPartyHighSequenceNumber": 0,
+            "TractionControlInd": true,
+            "UsePct": 0,
+            "UserSuppliedMakeOrModel": "String",
+            "UtilityVehicleOrPickupInd": true,
+            "VehBodyTypeCd": {
+                "SrcCd": "token"
+            },
+            "VehDesc": "String",
+            "VehIdentificationNumber": "String",
+            "VehIdentificationNumberInfo": {
+                "AirBagTypeCd": {
+                    "SrcCd": "token"
+                },
+                "AntiLockBrakeCd": {
+                    "SrcCd": "token"
+                },
+                "ChangeTypeCd": "String",
+                "DaytimeRunningLightCd": {
+                    "SrcCd": "token"
+                },
+                "ElectronicStabilityControlCd": {
+                    "SrcCd": "token"
+                },
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "RateCd": {
+                    "SrcCd": "token"
+                },
+                "RateStatusCd": {
+                    "SrcCd": "token"
+                },
+                "SeatBeltTypeCd": {
+                    "SrcCd": "token"
+                },
+                "SideAirBagTypeCd": {
+                    "SrcCd": "token"
+                },
+                "VINDetail": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "VehIdentificationNumberExt": ""
+            },
+            "VehLocation": {
+                "Addr": {
+                    "AdditionalAddrCd": {
+                        "SrcCd": "token"
+                    },
+                    "AdditionalAddrDetail": "String",
+                    "Addr1": "String",
+                    "Addr2": "String",
+                    "Addr3": "String",
+                    "Addr4": "String",
+                    "Addr5": "String",
+                    "AddrExt": "",
+                    "AddrTypeCd": {
+                        "SrcCd": "token"
+                    },
+                    "AllstateCityCd": {
+                        "SrcCd": "token"
+                    },
+                    "AllstateCountyTownCd": {
+                        "SrcCd": "token"
+                    },
+                    "ChangeTypeCd": "String",
+                    "City": "String",
+                    "CityCd": {
+                        "SrcCd": "token"
+                    },
+                    "CommunicationUseCd": {
+                        "SrcCd": "token"
+                    },
+                    "Country": "String",
+                    "CountryCd": {
+                        "SrcCd": "token"
+                    },
+                    "County": "String",
+                    "CountyCd": {
+                        "SrcCd": "token"
+                    },
+                    "DetailAddr": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "PostDirectionCd": {
+                            "SrcCd": "token"
+                        },
+                        "PreDirectionCd": {
+                            "SrcCd": "token"
+                        },
+                        "StreetName": "String",
+                        "StreetNumber": "String",
+                        "StreetTypeCd": {
+                            "SrcCd": "token"
+                        },
+                        "UnitNumber": "String"
+                    },
+                    "FIPSCountyCd": {
+                        "SrcCd": "token"
+                    },
+                    "FIPSStateProvCd": {
+                        "SrcCd": "token"
+                    },
+                    "GeocodeAddr": {
+                        "AddrGeocodedCd": {
+                            "SrcCd": "token"
+                        },
+                        "CensusBlockGroup": "String",
+                        "CensusBlockId": "String",
+                        "CensusTract": "String",
+                        "ChangeTypeCd": "String",
+                        "ConfidenceScore": "String",
+                        "GeocodeAddrExt": "",
+                        "GeodeticDatum": "String",
+                        "Id": "String",
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "MatchCd": {
+                            "SrcCd": "token"
+                        },
+                        "ServiceDatabaseName": "String",
+                        "ServiceDatabaseVersion": "String",
+                        "ServiceStreetDataCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "Id": "String",
+                    "Identifier": {
+                        "ChangeTypeCd": "String",
+                        "Id": "String",
+                        "IdTypeCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "InsideCityLimitInd": true,
+                    "KeyedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "Latitude": "String",
+                    "Longitude": "String",
+                    "LotNumber": "String",
+                    "MailingLabelLine1": "String",
+                    "MailingLabelLine2": "String",
+                    "MailingLabelLine3": "String",
+                    "MailingLabelLine4": "String",
+                    "ModifiedValue": {
+                        "Id": "String",
+                        "KeyName": "String",
+                        "KeyValue": "String"
+                    },
+                    "MoveInDt": "1967-08-13",
+                    "OtherCity": "String",
+                    "POBox": "String",
+                    "PostalCode": "String",
+                    "PostalDataOutput": {
+                        "AddrStandardizedCd": {
+                            "SrcCd": "token"
+                        },
+                        "ChangeTypeCd": "String",
+                        "CityResultCd": {
+                            "SrcCd": "token"
+                        },
+                        "ConfidenceScore": "String",
+                        "HouseNumberResultCd": {
+                            "SrcCd": "token"
+                        },
+                        "Id": "String",
+                        "Identifier": {
+                            "ChangeTypeCd": "String",
+                            "Id": "String",
+                            "IdTypeCd": {
+                                "SrcCd": "token"
+                            }
+                        },
+                        "KeyedValue": {
+                            "Id": "String",
+                            "KeyName": "String",
+                            "KeyValue": "String"
+                        },
+                        "POBoxResultCD": {
+                            "SrcCd": "token"
+                        },
+                        "PostalCodeResultCd": {
+                            "SrcCd": "token"
+                        },
+                        "PostalDataOutputExt": "",
+                        "StateProvinceResultCd": {
+                            "SrcCd": "token"
+                        },
+                        "StreetNameResultCd": {
+                            "SrcCd": "token"
+                        },
+                        "ValidationMatchScore": "String",
+                        "ValidationResultStatusCd": {
+                            "SrcCd": "token"
+                        }
+                    },
+                    "PreferredContactRef": "String",
+                    "PreferredInd": true,
+                    "RatingAreaCd": {
+                        "SrcCd": "token"
+                    },
+                    "RuralRoute": "String",
+                    "StatTaxAreaCd": {
+                        "SrcCd": "token"
+                    },
+                    "StateProv": "String",
+                    "StateProvCd": {
+                        "SrcCd": "token"
+                    },
+                    "TerritoryCd": {
+                        "SrcCd": "token"
+                    },
+                    "TerritoryZoneCd": {
+                        "SrcCd": "token"
+                    },
+                    "UrbanName": "String",
+                    "ValidatedCd": {
+                        "SrcCd": "token"
+                    },
+                    "VendorAddrMatchCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "VehLocationExt": ""
+            },
+            "VehOptionalEquipmentCd": {
+                "SrcCd": "token"
+            },
+            "VehSpecialCd": {
+                "SrcCd": "token"
+            },
+            "VehSubTypeCd": {
+                "SrcCd": "token"
+            },
+            "VehSymbolCd": {
+                "SrcCd": "token"
+            },
+            "VehTypeCd": {
+                "SrcCd": "token"
+            },
+            "VehUseCd": {
+                "SrcCd": "token"
+            },
+            "VehicleAttribute": {
+                "Id": "String",
+                "KeyName": "String",
+                "KeyValue": "String"
+            },
+            "VehicleDeliveryUseInd": true,
+            "YearAltered": "String",
+            "YoungestDriverAge": 3.14159265358979
+        },
+        "Policy": {
+            "ChangeTypeCd": "String",
+            "Id": "String",
+            "MiscPartyRef": "String",
+            "PolicyNumber": "191170412080572",
+            "PolicyVersion": "String",
+            "QuoteInfo": {
+                "ChangeTypeCd": "String",
+                "CompanysQuoteNumber": "191170412080572",
+                "CoverageConditionsInd": true,
+                "CoverageConditionsReason": "String",
+                "CoverageDeclinedInd": true,
+                "CustomizedQuoteSelectionCd": {
+                    "SrcCd": "token"
+                },
+                "Id": "String",
+                "Identifier": {
+                    "ChangeTypeCd": "String",
+                    "Id": "String",
+                    "IdTypeCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "InitialQuoteRequestDt": "1967-08-13",
+                "InitialQuotedPremiumAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "InsuredFullToBePaidAmt": {
+                    "Amt": 3.14159265358979,
+                    "CurCd": {
+                        "SrcCd": "token"
+                    }
+                },
+                "IterationNumber": 2147483647,
+                "KeyedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "ModifiedValue": {
+                    "Id": "String",
+                    "KeyName": "String",
+                    "KeyValue": "String"
+                },
+                "QuoteConditionsInd": "String",
+                "QuoteConditionsReason": "String",
+                "QuoteDeclinationReason": "String",
+                "QuoteDeclinedInd": true,
+                "QuoteInfoExt": "",
+                "QuotePreparedDt": "1967-08-13",
+                "QuoteValidUntilDt": "1967-08-13",
+                "RandomResultNumber": "String",
+                "StreamlinedIntegratedQuotingTypeCd": {
+                    "SrcCd": "token"
+                }
+            }
+        }
+    }
+}
